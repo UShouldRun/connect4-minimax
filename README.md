@@ -5,3 +5,5 @@ I may be making changes to the project in the future to make the game look nicer
 For now it will just be a reference for an example of the implementation of the minimax algorithm.
 
 All the code is free to use. I only ask you to tag my github account if you do so.
+
+To use the program just execute the main.py file. Terminal: python3 main.py
